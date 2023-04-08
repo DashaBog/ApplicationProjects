@@ -1,0 +1,3 @@
+/home/dasha/algorithms/contest2/gqsort/cmake-build-debug/CMakeFiles/gqsort.dir
+/home/dasha/algorithms/contest2/gqsort/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/dasha/algorithms/contest2/gqsort/cmake-build-debug/CMakeFiles/rebuild_cache.dir

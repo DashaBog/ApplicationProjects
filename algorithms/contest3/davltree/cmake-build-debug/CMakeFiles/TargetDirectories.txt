@@ -1,0 +1,3 @@
+/home/dasha/algorithms/contest3/davltree/cmake-build-debug/CMakeFiles/davltree.dir
+/home/dasha/algorithms/contest3/davltree/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/dasha/algorithms/contest3/davltree/cmake-build-debug/CMakeFiles/rebuild_cache.dir

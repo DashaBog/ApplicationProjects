@@ -1,0 +1,3 @@
+/home/dasha/algorithms/contest4/sparsetable/cmake-build-debug/CMakeFiles/sparsetable.dir
+/home/dasha/algorithms/contest4/sparsetable/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/dasha/algorithms/contest4/sparsetable/cmake-build-debug/CMakeFiles/rebuild_cache.dir

@@ -1,0 +1,15 @@
+# ninja log v5
+0	861	1669051919224455508	CMakeFiles/convexpolygon.dir/main.cpp.o	2832e0dd438cc34e
+861	1013	1669051919376458431	convexpolygon	ab4ddb5c6e3a57bd
+1	3605	1669053114624598215	CMakeFiles/convexpolygon.dir/main.cpp.o	2832e0dd438cc34e
+3606	3889	1669053114908563737	convexpolygon	ab4ddb5c6e3a57bd
+3	2521	1669053406473935545	CMakeFiles/convexpolygon.dir/main.cpp.o	2832e0dd438cc34e
+2522	2686	1669053406633900817	convexpolygon	ab4ddb5c6e3a57bd
+2	676	1669053482279047594	CMakeFiles/convexpolygon.dir/main.cpp.o	2832e0dd438cc34e
+676	842	1669053482443018484	convexpolygon	ab4ddb5c6e3a57bd
+41	8523	1669054847294978253	CMakeFiles/convexpolygon.dir/main.cpp.o	2832e0dd438cc34e
+8524	9782	1669054848551076498	convexpolygon	ab4ddb5c6e3a57bd
+1	1497	1669055516346924830	CMakeFiles/convexpolygon.dir/main.cpp.o	2832e0dd438cc34e
+1497	1890	1669055516742884043	convexpolygon	ab4ddb5c6e3a57bd
+0	438	1669055933299501118	CMakeFiles/convexpolygon.dir/main.cpp.o	2832e0dd438cc34e
+438	542	1669055933403482462	convexpolygon	ab4ddb5c6e3a57bd

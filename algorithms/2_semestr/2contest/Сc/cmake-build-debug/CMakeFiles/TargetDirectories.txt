@@ -1,0 +1,3 @@
+/home/dasha/algorithms/2_semestr/2contest/Сc/cmake-build-debug/CMakeFiles/c.dir
+/home/dasha/algorithms/2_semestr/2contest/Сc/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/dasha/algorithms/2_semestr/2contest/Сc/cmake-build-debug/CMakeFiles/rebuild_cache.dir

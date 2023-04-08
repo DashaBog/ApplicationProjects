@@ -1,0 +1,3 @@
+/home/dasha/algorithms/contest2/JHeapSort/cmake-build-debug/CMakeFiles/JHeapSort.dir
+/home/dasha/algorithms/contest2/JHeapSort/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/dasha/algorithms/contest2/JHeapSort/cmake-build-debug/CMakeFiles/rebuild_cache.dir

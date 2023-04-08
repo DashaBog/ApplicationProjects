@@ -1,0 +1,3 @@
+/home/dasha/algorithms/contest1/hsqrt/cmake-build-debug/CMakeFiles/hsqrt.dir
+/home/dasha/algorithms/contest1/hsqrt/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/dasha/algorithms/contest1/hsqrt/cmake-build-debug/CMakeFiles/rebuild_cache.dir

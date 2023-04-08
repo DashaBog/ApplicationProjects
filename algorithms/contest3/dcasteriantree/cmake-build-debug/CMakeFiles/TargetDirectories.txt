@@ -1,0 +1,3 @@
+/home/dasha/algorithms/contest3/dcasteriantree/cmake-build-debug/CMakeFiles/dcasteriantree.dir
+/home/dasha/algorithms/contest3/dcasteriantree/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/dasha/algorithms/contest3/dcasteriantree/cmake-build-debug/CMakeFiles/rebuild_cache.dir
