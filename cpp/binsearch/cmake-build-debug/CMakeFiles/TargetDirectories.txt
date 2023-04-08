@@ -1,0 +1,3 @@
+/home/dasha/cpp/binsearch/cmake-build-debug/CMakeFiles/binsearch.dir
+/home/dasha/cpp/binsearch/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/dasha/cpp/binsearch/cmake-build-debug/CMakeFiles/rebuild_cache.dir

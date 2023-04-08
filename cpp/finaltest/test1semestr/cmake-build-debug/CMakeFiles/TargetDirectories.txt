@@ -1,0 +1,3 @@
+/home/dasha/ass/test1semestr/cmake-build-debug/CMakeFiles/test1semestr.dir
+/home/dasha/ass/test1semestr/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/dasha/ass/test1semestr/cmake-build-debug/CMakeFiles/rebuild_cache.dir

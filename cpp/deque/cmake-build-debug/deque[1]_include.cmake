@@ -1,0 +1,5 @@
+if(EXISTS "/home/dasha/cpp/deque/cmake-build-debug/deque[1]_tests.cmake")
+  include("/home/dasha/cpp/deque/cmake-build-debug/deque[1]_tests.cmake")
+else()
+  add_test(deque_NOT_BUILT deque_NOT_BUILT)
+endif()

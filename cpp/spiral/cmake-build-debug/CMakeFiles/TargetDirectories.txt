@@ -1,0 +1,3 @@
+/home/dasha/ass/task1/spiral/cmake-build-debug/CMakeFiles/spiral.dir
+/home/dasha/ass/task1/spiral/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/dasha/ass/task1/spiral/cmake-build-debug/CMakeFiles/rebuild_cache.dir

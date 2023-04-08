@@ -1,0 +1,3 @@
+/home/dasha/cpptest/factorization/cmake-build-debug/CMakeFiles/factorization.dir
+/home/dasha/cpptest/factorization/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/dasha/cpptest/factorization/cmake-build-debug/CMakeFiles/rebuild_cache.dir

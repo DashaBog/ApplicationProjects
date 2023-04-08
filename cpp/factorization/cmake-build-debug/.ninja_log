@@ -1,0 +1,18 @@
+# ninja log v5
+0	541	1666865753107963289	CMakeFiles/factorization.dir/main.cpp.o	4e2dc84c69f853b
+0	129	1666865769471823577	CMakeFiles/factorization.dir/main.cpp.o	4e2dc84c69f853b
+0	326	1666867632946055248	CMakeFiles/factorization.dir/main.cpp.o	4e2dc84c69f853b
+1	615	1666868807868742385	CMakeFiles/factorization.dir/main.cpp.o	4e2dc84c69f853b
+616	729	1666868807980740901	factorization	111c42c7dd717962
+0	511	1666875216422508705	CMakeFiles/factorization.dir/main.cpp.o	4e2dc84c69f853b
+0	76	1666875385677622795	CMakeFiles/factorization.dir/main.cpp.o	4e2dc84c69f853b
+0	396	1666875824558525606	CMakeFiles/factorization.dir/main.cpp.o	4e2dc84c69f853b
+396	504	1666875824666524749	factorization	111c42c7dd717962
+1	295	1666875837186425183	CMakeFiles/factorization.dir/main.cpp.o	4e2dc84c69f853b
+295	402	1666875837294424323	factorization	111c42c7dd717962
+1	420	1666877168457670832	CMakeFiles/factorization.dir/main.cpp.o	4e2dc84c69f853b
+421	545	1666877168581669115	factorization	111c42c7dd717962
+1	1281	1666884721074744263	CMakeFiles/factorization.dir/main.cpp.o	4e2dc84c69f853b
+1281	1702	1666884721494617383	factorization	111c42c7dd717962
+0	613	1666885173645031445	CMakeFiles/factorization.dir/main.cpp.o	4e2dc84c69f853b
+613	766	1666885173797110909	factorization	111c42c7dd717962
